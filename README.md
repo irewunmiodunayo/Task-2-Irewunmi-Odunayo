@@ -29,4 +29,5 @@ Customers showed strong preference for online payments.
 A significant portion of revenue(21.85%) was associated with canceled orders,indicating an area that may require further investigation to reduce potential revenue loss.
 
 **TOOL USED**
+
 Microsoft Excel
